@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 吹神小站
+title: Lafcadia's Blog
 subtitle: '心绪如风一样流转，留不下一丝痕迹'
 description: '一个人的站点，一个人的家。'
-keywords:
-author: 吹神求杀
+keywords: 技术,哲学,lafcadia,Python,人生,交友,划水,东方Project,车万,个人博客,东方厨,Blogger,左人,神秘主义,朴素唯物主义,怀旧,玄云海,OblivionOcean,TeamOblivionOcean
+author: Lafcadia
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://chuishen.cf/ #你自己填
-permalink: :year/:month/:day/:title/
+url: https://chuishen.xyz/ #你自己填
+permalink: 01/:title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,27 +97,25 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: volantis
-
-livere_uid: MTAyMC81NjQwNi8zMjg2OQ==
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:ChuishenX/chuishenx.github.io.git'
+  repo: 'git@github.com:Lafcadia/chui-shen.github.io.git'
   branch: 'main'
 
 import:
   head_begin:
-    - <link rel="apple-touch-icon" sizes="180x180" href="https://chuishen.cf/apple-touch-icon.png">
-    - <link rel="icon" type="image/png" sizes="32x32" href="https://chuishen.cf/favicon-32x32.png">
-    - <link rel="icon" type="image/png" sizes="16x16" href="https://chuishen.cf/favicon-16x16.png">
-    - <link rel="manifest" href="https://chuishen.cf/site.webmanifest">
-    - <link rel="shortcut icon" href="https://chuishen.cf/favicon.ico">
+    - <link rel="apple-touch-icon" sizes="180x180" href="https://chuishen.xyz/apple-touch-icon.png">
+    - <link rel="icon" type="image/png" sizes="32x32" href="https://chuishen.xyz/favicon-32x32.png">
+    - <link rel="icon" type="image/png" sizes="16x16" href="https://chuishen.xyz/favicon-16x16.png">
+    - <link rel="manifest" href="https://chuishen.xyz/site.webmanifest">
+    - <link rel="shortcut icon" href="https://chuishen.xyz/favicon.ico">
     - <meta name="baidu-site-verification" content="code-l1JQp6WUuH" />
 
-favicon: https://chuishen.cf/favicon.ico
+favicon: https://chuishen.xyz/favicon.ico
 feed:
   enable: true
   type: atom
@@ -131,3 +129,15 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+# 设置博客单词统计
+symbols_count_time:
+  # 文章字数统计
+  symbols: false
+  # 文章阅读时间统计
+  time: false
+  # 站点总字数统计
+  total_symbols: false
+  # 站点总阅读时间统计
+  total_time: false
+  exclude_codeblock: false
