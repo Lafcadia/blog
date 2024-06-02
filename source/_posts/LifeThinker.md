@@ -6,6 +6,6 @@ tags:
     - 无聊
 ---
 
-闲着没事画了一个个人签名。
+闲着没事画了一个个性签名。
 
 ![Life Thinker 3.0](https://chuishen.xyz/LifeThinker3.0.png)

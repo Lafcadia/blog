@@ -217,7 +217,7 @@ alias:
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="https://wanghaiyang.cc/static/img/fcc0e12eea3b4eb8accccef7b979d09d.touxiang.webp">
+        <img src="https://wanghaiyang.cc/static/userAvatar/Sara11713719658145435.png">
       </figure>
     </div>
     <div class="media-content">
@@ -289,7 +289,7 @@ alias:
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="https://www.tjwxs.top/wp-content/uploads/2023/10/cropped-IMG_202309301009_210x210-192x192.png">
+        <img src="https://www.tjwxs.top/wp-content/uploads/2024/05/cropped-IMG_202309301009_210x210.png">
       </figure>
     </div>
     <div class="media-content">
@@ -315,6 +315,42 @@ alias:
         <p>
           <a href="https://www.mysticstars.cn/">MysticStars</a>
           <br>生在此侧，死在彼侧。我在此侧，不在彼侧。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://lihouse.xyz/assets/headimg_dl-5IKCoyuF.jpg">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://lihouse.xyz/">LIMEUWU</a>
+          <br>Puis-je prétendre à un miracle.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://www.asxe.vip/blog/images/avatar.webp">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://www.asxe.vip/">月落星沉</a>
+          <br>斯人如彩虹，遇上方知有。
         </p>
       </div>
     </div>

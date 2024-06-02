@@ -1,6 +1,6 @@
 ---
 
-title: 利用Flask和Captcha制作简单的验证码生成器
+title: 利用 Flask 和 Captcha 制作简单的验证码生成器
 date: 2022-05-14 09:50:34
 tags: 
   - Python
