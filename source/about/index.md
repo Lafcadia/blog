@@ -33,7 +33,7 @@ Before 2019, 结识[土土](https://www.tutime.cn/)。加入过某个名气不�
 
 2023年开启《御伽之国的鬼岛》系列，同年完结(现载于 [Legacy](https://legacy.chuishen.xyz/) 站)。同年开启[《寂白之间》](https://chuishen.xyz/tags/%E5%AF%82%E7%99%BD%E4%B9%8B%E9%97%B4/)系列，上半卷已完结，下半卷正在更新，载于此站。进入杭州外国语学校就读高中。随团队一起获得VEX机器人亚洲公开赛二等奖。
 
-2024年将本站分为，Legacy，Memoria，主站三站，[Memoria](https://memoria.top/)是我与远冬的写作站点，[Legacy](https://legacy.chuishen.xyz/)专门放点黑历史，主站更新部分文学性作品以及部分。开启[《脚本哲学》](https://chuishen.xyz/01/PhiloScriptPart1.html)系列和[《妄谈》](https://chuishen.xyz/tags/%E5%A6%84%E8%B0%88/)系列。非正式加入天鸡文学社，担任网站管理员及作者之职。另外为[战国日本服务器](https://smc.oblivionocean.top)架设官方网站，为[TerraMC](https://www.bilibili.com/video/BV1vk4y1N7Hs/?spm_id_from=333.999.0.0)服务器撰写[备份脚本](https://chuishen.xyz/01/PhiloScriptPart1.html)。
+2024年将本站分为，Legacy，Memoria，主站三站，[Memoria](https://memoria.top/) 是我与远冬的写作站点，[Legacy](https://legacy.chuishen.xyz/) 专门放点黑历史，主站更新部分文学性作品以及部分。开启[《脚本哲学》](https://chuishen.xyz/01/PhiloScriptPart1.html)系列和[《妄谈》](https://chuishen.xyz/tags/%E5%A6%84%E8%B0%88/)系列。于六月正式加入天鸡文学社，担任网站管理员之职。另外为[战国日本服务器](https://smc.oblivionocean.top)架设官方网站，为 [TerraMC](https://www.bilibili.com/video/BV1vk4y1N7Hs/?spm_id_from=333.999.0.0) 服务器撰写[备份脚本](https://chuishen.xyz/01/PhiloScriptPart1.html)。六月份测试了[英文站](https://en.chuishen.xyz)，尚未正式启用。
 
 ## 主要作品
 
@@ -47,3 +47,8 @@ Before 2019, 结识[土土](https://www.tutime.cn/)。加入过某个名气不�
 4. [WaterMello](https://github.com/Lafcadia/WaterMello)，一个自定义版《合成大西瓜》生成器+启动器。
 5. [DStroyer](https://github.com/OblivionOcean/DStroyer)，一个清除苹果临时文件(如.DS_Store)的脚本。
 6. [HamudTranslator](https://github.com/OblivionOcean/HamudTranslator)，还未完成，敬请期待。
+
+## 另见
+
+1. [Lafcadia's GitHub](https://github.com/Lafcadia/)
+2. [ChuishenX's Github](https://github.com/ChuishenX)
