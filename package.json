@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
+    "caniuse-lite": "^1.0.30001628",
     "eslint": "^8.46.0",
     "hexo": "^6.2.0",
     "hexo-component-inferno": "^2.0.3",
