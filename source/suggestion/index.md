@@ -356,3 +356,93 @@ alias:
     </div>
   </article>
 </div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://blog.redish101.top/favicon.ico">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://blog.redish101.top">Redish101 Blog</a>
+          <br>人文 科技 白日梦
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://blog.awaae001.top">呓语梦轩</a>
+          <br>用心享受生活。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://cravatar.cn/avatar/13aa912754e6bb5e671f3e6654e4712d?s=480">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://blog.zhilu.cyou">纸鹿摸鱼处</a>
+          <br>纸鹿至麓不知路，支炉制露不止漉。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=2381548894&s=640">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://www.windy.ink">轻风记</a>
+          <br>风会记得一朵花的香。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://yayu.net/favicon.png">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://yayu.net/">雅余</a>
+          <br>茶余饭后，闲情雅致。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
