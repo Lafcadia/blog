@@ -19,14 +19,14 @@ alias:
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="https://www.tutime.cn/3.jpg">
+        <img src="https://bu.dusays.com/2024/06/16/666e913ae106c.png">
       </figure>
     </div>
     <div class="media-content">
       <div class="content">
         <p>
-          <a href="https://www.tutime.cn/">土土博客</a>
-    <br>追逐幻想。
+          <a href="https://www.zzzzhi.com">祈星海</a>
+    <br>循此苦旅，以达星辰。
         </p>
       </div>
     </div>
@@ -91,7 +91,7 @@ alias:
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="https://uss.ilovey.live/img/avatar.jpg">
+        <img src="https://ilovey.live/img/favicon.png">
       </figure>
     </div>
     <div class="media-content">
@@ -117,24 +117,6 @@ alias:
         <p>
           <a href="https://ning0818.top">Lemon's Blog</a>
           <br>人见人爱，花见花开，车见车爆胎。
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-
-<div class="box">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="https://cdn-imfurry.imfurry.com/avatar/zebwqFurryAvatar.png">
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content">
-        <p>
-          <a href="https://imfurry.com">中二病晚期の物語</a>
-          <br>一只狐狸敲出的一个奇迹。
         </p>
       </div>
     </div>
@@ -217,7 +199,7 @@ alias:
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="https://wanghaiyang.cc/static/userAvatar/Sara11713719658145435.png">
+        <img src="https://cdn.9iw.ink/touxiang-iict.png">
       </figure>
     </div>
     <div class="media-content">
@@ -441,6 +423,24 @@ alias:
         <p>
           <a href="https://yayu.net/">雅余</a>
           <br>茶余饭后，闲情雅致。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://offernow.cn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome.877913bf.png&w=384&q=75">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://www.offernow.cn">OfferNow</a>
+          <br>分享最新的面试技巧、题库和编程知识。
         </p>
       </div>
     </div>
