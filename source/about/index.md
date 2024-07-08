@@ -38,10 +38,12 @@ Before 2019, 结识[土土](https://www.tutime.cn/)。加入过某个名气不�
 ## 主要作品
 
 ### 文字类
+
 见标签["写作"](https://chuishen.xyz/tags/%E5%86%99%E4%BD%9C/)以及[系列](https://chuishen.xyz/series/)。
 
 ### 编程类(部分)
-1. [SearchButton](https://github.com/Lafcadia/SearchButton)，一个 HTML tag 定义.
+
+1. [SearchButton](https://github.com/Lafcadia/SearchButton)，一个 HTML 标签定义.
 2. [Xelsior](https://github.com/OblivionOcean/Xelsior)，原名 NewPad，主要创意来自于我。
 3. [Flask Captcha Generator](https://github.com/Lafcadia/flask-captcha-generator)，一个通过 Serverless 技术实现的在 Vercel 上可零成本运行的验证码。
 4. [WaterMello](https://github.com/Lafcadia/WaterMello)，一个自定义版《合成大西瓜》生成器+启动器。
@@ -52,3 +54,9 @@ Before 2019, 结识[土土](https://www.tutime.cn/)。加入过某个名气不�
 
 1. [Lafcadia's GitHub](https://github.com/Lafcadia/)
 2. [ChuishenX's Github](https://github.com/ChuishenX)
+
+## 荣誉 (2023 年后)
+
+1. UKMT/SMC 2023 金奖
+2. 2023 杭州市科技节机器人竞赛团体一等奖 (亚军)
+3. 2023-2024 赛季 VEX 机器人亚洲锦标赛团体二等奖
