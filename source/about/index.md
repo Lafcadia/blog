@@ -60,3 +60,11 @@ Before 2019, 结识[土土](https://www.tutime.cn/)。加入过某个名气不�
 1. UKMT/SMC 2023 金奖
 2. 2023 杭州市科技节机器人竞赛团体一等奖 (亚军)
 3. 2023-2024 赛季 VEX 机器人亚洲锦标赛团体二等奖
+
+## Minecraft
+
+{% mcskin name JiaoWang true true %}
+
+1. 落花星雨 - 起床战争 300 星，ID: Ancester
+2. CiVEarth - 建立多个国家
+3. Hypherath SMP - 服主。
