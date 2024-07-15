@@ -12,7 +12,7 @@ sidebar: []
 永乐三部曲是我借鉴了西溪水文学社的《文明》而写的，不得不说比起原作真是一文不值。
 
 - [西海岸，东海道](https://chuishen.xyz/01/FromCaliforniaToKashima.html)
-- 金阁寺的一块天花板
+- [金阁寺的一块天花板](https://chuishen.xyz/01/MirrorsOnTheCeiling.html)
 - 漫步于夜晚的白鹭城
 
 ## 寂白之间 ~ Invisible Kingdom of Nothingness
