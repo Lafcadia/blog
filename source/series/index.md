@@ -13,7 +13,7 @@ sidebar: []
 
 - [西海岸，东海道](https://chuishen.xyz/01/FromCaliforniaToKashima.html)
 - [金阁寺的一块天花板](https://chuishen.xyz/01/MirrorsOnTheCeiling.html)
-- 漫步于夜晚的白鹭城
+- [漫步于夜晚的白鹭城](https://chuishen.xyz/01/NightAtKamisato.html)
 
 ## 寂白之间 ~ Invisible Kingdom of Nothingness
 
