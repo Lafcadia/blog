@@ -6,7 +6,7 @@
 title: Lafcadia's Blog
 subtitle: '心绪如风一样流转，留不下一丝痕迹'
 description: 'Et in Arcadia, ego.'
-keywords: 技术,哲学,lafcadia,Python,人生,交友,划水,东方Project,车万,个人博客,东方厨,Blogger,左人,神秘主义,朴素唯物主义,怀旧,玄云海,OblivionOcean,TeamOblivionOcean
+keywords: 技术,哲学,lafcadia,Python,人生,交友,划水,东方Project,车万,个人博客,东方厨,Blogger,左人,神秘主义,怀旧,玄云海,OblivionOcean,Team OblivionOcean
 author: Lafcadia
 language: zh-CN
 timezone: ''
@@ -28,7 +28,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 'periodic-table/**'
 
 # Writing
 new_post_name: :title.md # File name of new posts

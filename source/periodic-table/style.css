@@ -1,0 +1,74 @@
+/* Base styles */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .element-cell {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .element {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  /* Element colors */
+  .alkali { background-color: #ffcccc; } /* Light pink */
+  .alkaline { background-color: #ccffcc; } /* Light green */
+  .transition { background-color: #cce0ff; } /* Light blue */
+  .post-transition { background-color: #ffcc99; } /* Light orange */
+  .metalloid { background-color: #ffff99; } /* Yellow */
+  .nonmetal { background-color: #e6ccff; } /* Light purple */
+  .noble { background-color: #e0e0e0; } /* Light grey */
+  .lanthanide { background-color: #b3d9d9; } /* Light teal */
+  .actinide { background-color: #d9b3b3; } /* Light brown */
+  
+  /* Hover effect */
+  .element:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Controls styles */
+  .controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #search-bar {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  #category-filter {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  

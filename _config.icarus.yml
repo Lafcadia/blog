@@ -113,6 +113,7 @@ navbar:
         关于: /about
         推荐: /suggestion
         系列: /series
+        元素周期表: /periodic-table
     # Links to be shown on the right of the navigation bar
     links:
 # Page footer configurations
