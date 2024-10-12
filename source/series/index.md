@@ -7,13 +7,19 @@ meta:
 sidebar: []
 ---
 
-## 永乐三部曲
+## 明治十七
 
-永乐三部曲是我借鉴了西溪水文学社的《文明》而写的，不得不说比起原作真是一文不值。
+收录了我 2024 年 6 月至 10 月的一些短篇文章。
 
 - [西海岸，东海道](https://chuishen.xyz/01/FromCaliforniaToKashima.html)
 - [金阁寺的一块天花板](https://chuishen.xyz/01/MirrorsOnTheCeiling.html)
 - [漫步于夜晚的白鹭城](https://chuishen.xyz/01/NightAtKamisato.html)
+- [义和拳](https://chuishen.xyz/01/IronFists.html)
+- [脑中的鹿角](https://chuishen.xyz/01/BranchesInMyBrain.html)
+- [彩](https://chuishen.xyz/01/ForbiddenColor.html)
+- [致命玩笑](https://chuishen.xyz/01/TheKillingJoke.html)
+- [失落的桃花源](https://chuishen.xyz/01/ParadiseLost.html)
+- 水上烟花
 
 ## 寂白之间 ~ Invisible Kingdom of Nothingness
 

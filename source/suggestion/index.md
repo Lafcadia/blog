@@ -446,3 +446,21 @@ alias:
     </div>
   </article>
 </div>
+
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <img src="https://bu.dusays.com/2024/06/12/6669abc539646.jpg">
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <a href="https://AGEN233.top/">枫林·浅羽·云梦</a>
+          <br>枫浅羽，云浅语。
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
